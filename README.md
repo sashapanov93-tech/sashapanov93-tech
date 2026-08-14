@@ -29,33 +29,6 @@ SafeAI combines AI conversation, personal memory, safety analysis, SOS alerts, t
 
 ---
 
-## 🐾 Other Projects
-
-### ZooLand
-
-Web marketplace for animal listings.
-
-**Technologies:**
-
-- Python
-- Flask
-- SQLite
-- HTML
-- CSS
-- JavaScript
-
-Features include:
-
-- Animal listings
-- Image uploads
-- City filtering
-- Database storage
-- Web interface
-
-🔗 **[View ZooLand →](https://github.com/sashapanov93-tech/zooland)**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
@@ -113,7 +86,7 @@ Features include:
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 🧠 Currently Learning
 
 - Advanced Python
 - Backend architecture
