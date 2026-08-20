@@ -206,7 +206,7 @@ My goal is to build production-ready applications and continuously improve my en
 
 ### 💬 Telegram
 
-🔗 [@fizruk_666](https://t.me/fizruk_666)
+🔗 [@fizruk_666](https://t.me/pitbull153193)
 
 ### 📧 Email
 
@@ -216,12 +216,6 @@ My goal is to build production-ready applications and continuously improve my en
 
 ⭐ **Python • Backend • AI • Frontend • Data Analytics**
 
-
-## 📫 Contact
-
-### GitHub
-
-🔗 [github.com/sashapanov93-tech](https://github.com/sashapanov93-tech)
 
 ---
 
