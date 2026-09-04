@@ -26,7 +26,7 @@ SafeAI combines AI conversation, personal memory, safety analysis, SOS alerts, t
 * Linux
 
 🔗 [**View SafeAI →**](https://github.com/sashapanov93-tech/safeai)
-
+🔗 [**View SafeAI TG →**](https://t.me/sos_suiHelp_bot).
 ---
 
 ### 🐾 ZooLand
@@ -78,7 +78,7 @@ The project presents my development experience, skills, projects and contact inf
 
 
 💻 [**View Source Code →**](https://github.com/sashapanov93-tech/my_visitka)
-
+💻 [**View My_Visitka →**](https://my-visitka.onrender.com)
 ---
 
 ## 🛠️ Tech Stack
