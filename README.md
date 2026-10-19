@@ -206,11 +206,11 @@ My goal is to build production-ready applications and continuously improve my en
 
 ### 💬 Telegram
 
-🔗 [@fizruk_666](https://t.me/pitbull153193)
+🔗 [@pitbull](https://t.me/pitbull153193)
 
 ### 📧 Email
 
-📨 [sasha.panov.93@gmail.com](mailto:sasha.panov.93@gmail.com)
+📨 [fidel_castro2625@proton.me](mailto:fidel_castro2625@proton.me)
 
 ---
 
